@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XVJDlF8im2/2Tr7ohFAuy18ZxydI7zFw9bTT3QxbLUQ=",
+  "Source": "ticket-service-csharp-api",
+  "BasePath": "_content/ticket-service-csharp-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
